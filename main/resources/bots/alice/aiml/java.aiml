@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 11/23/2011 -->
+<!-- -->
+<category>
+<pattern>JAVA</pattern>
+<template><set name="she">JAVA</set> A melhor linguagem do mundo.</template>
+</category>
+
+<category><pattern>FUJIOKA</pattern>
+<template>
+Muito velhinho , mas gente boa.
+<think>
+<set name="it"><set name="topic">PROFESSOR</set> </set></think>
+</template>
+
+</category>
+<category><pattern>Cleonice</pattern>
+<template>Ah Cleonice é a presidente de turma</template>
+</category>
+
+<category>
+<pattern>Marcelo</pattern>
+<template>Marcelo e o melhor coodenador de todos os tempos.</template>
+</category>
+
+1
+<category>
+<pattern>Como faco para solicitar dispensa das disciplinas</pattern>
+<template>Atraves do portal do aluno online, na aba Helpdesk </template>
+</category>
+
+2
+<category>
+<pattern> Quando inicia o semestre</pattern>
+<template>Entre a primeira ou segunda semana de agosto</template>
+</category>
+
+3
+<category>
+<pattern>Qual o periodo de solicitar a colacao de grau especial</pattern>
+<template>Assim que sair o calendario academico</template>
+</category>
+
+4
+<category>
+<pattern>Ate quando posso solicitar ajuste e aproveitamento das disciplinas</pattern>
+<template>Uma semana antes dos inicio da primeira avaliacao</template>
+</category>
+
+5
+<category>
+<pattern>Qual horario que consigo fala com a coordenacao</pattern>
+<template> O secretario sempre chega de 13 as 22h e o meio de comunicacao ou telefone da instituicao, email e WhatsApp pessoal do secretario</template>
+</category>
+
+
+6
+<category>
+<pattern>Sou Aluno do P1 posso estagiar</pattern>
+<template>Tudo depende do desenvolvimento do aluno</template>
+</category>
+
+7
+<category>
+<pattern>Estou no meu ultimo periodo porem nao consegui arruma estagio, o que faco</pattern>
+<template>O curso projeto que e a fabrica de software do professor Glaucio pra justamente ajudar os alunos nessas situacoes</template>
+</category>
+
+8
+<category>
+<pattern>O curso e totalmente presencial</pattern>
+<template>Sim, os em EAD sao Analise e desenvolvimento de sistemas e Gestao de Tecnologia da informacao</template>
+</category>
+
+9
+<category>
+<pattern>Como faco para matricular nas disciplinas para o proximo periodo</pattern>
+<template>Atraves do aluno online em matricula</template>
+</category>
+
+10
+<category>
+<pattern>Estou com problemas financeiro a coordenacao resolve</pattern>
+<template>Nao, apenas com o setor responsavel</template>
+</category>
+
+11
+<category>
+<pattern>Estou me transferindo para UNIESO quais disciplinas vou cursar</pattern>
+<template>Fazendo anailise do seu Historico ai saberemos quais disciplinas ira cursar e dispensar</template>
+</category>
+
+12
+<category>
+<pattern>Fiz minha matricula no curso em EAD porem nao consigo entrar</pattern>
+<template>A coordenacao do curso de EDA manda o email com login e senha para o aluno ter acesso ao portal AVA</template>
+</category>
+
+13
+<category>
+<pattern>Como faco para lancar minhas horas complementares</pattern>
+<template>Enviando atraves do portal do aluno online seus certificados das palestras,cursos de excecoe e entre outros</template>
+</category>
+
+14
+<category>
+<pattern>Caso perca a primeira avaliacao posso repor</pattern>
+<template>Sim,o aluno pode repor 1 avalicao a 2 avalicao ele tem que fazer para ser reprovado</template>
+</category>
+
+15
+<category>
+<pattern>Qual valor do curso como consigo desconto</pattern>
+<template>Sistemas para Internet sao 5 periodos 472,92 e Sistemas de Informacao 902,95 sobre os descontos so no setor comercial </template>
+</category>
+
+16
+<category>
+<pattern>Quantos periodos tem os cursos</pattern>
+<template>O de Sistemas para internet sao 5 periodos totalizando 2 anos e meio, o de sistema de informacao sao 8 periodos totalizando 4 anos</template>
+</category>
+
+17
+<category>
+<pattern>Se terminar sistema para Internet passo cursar sistema de Informacao</pattern>
+<template>Sim, nesse caso muitas disciplinas sao dispensadas ai o aluno ingressa como segunda graduacao na instituicao</template>
+</category>
+
+18
+<category>
+<pattern>Quantas falta posso reprovar e como abonar as faltas</pattern>
+<template> Nao pode ter, mas de 50% da disciplina para poder abonar o aluno precisa enviar para o email da coordenacao o atestado ou documento que comprove o motivo de sua ausencia</template>
+</category>
+
+19
+<category>
+<pattern>Quais as formas de ingresso no curso</pattern>
+<template>Atraves do vestibular da instituicao, transferencia de outra instituicao ou nota do ENEM</template>
+</category>
+
+20
+<category>
+<pattern>A festa de colacao de grau sou obrigada a participar</pattern>
+<template>No caso o aluno e obrigado a assinar a ATA para poder receber o diploma a cerimonia da colacao de grau que e a festa fica no seu criterio em participar.</template>
+</category>
+
+
+</aiml>
